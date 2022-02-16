@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    background-color: #f2f6ff;
+}
+#topbar{
+    width: 100%;
+    border: 1px solid darkgray;
+    padding: 15px 0px 15px 0px;
+    background-color: white;
+}
+#edyoda{
+    margin: 0;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 900;
+    color: #0096ff;
+}
+#stories{
+    margin: 0;
+    text-align: center;
+    margin-left: -68px;
+    font-style: italic;
+    font-weight: 600;
+}
+#trending-posts{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#buttons{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.buttons{
+    background-color: transparent;
+    border: 1px solid #0096ff;
+    color: #0096ff;
+    outline: none;
+    border-radius: 15px;
+    padding: 5px 11px;
+    margin:0px 10px 10px 0px;
+}
+#blog-cards{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+}
+.blog-cards{
+    width: 30%;
+    display: inline-block;
+    background-color: white;
+    border-radius: 8px;
+    margin:20px 21px 20px 0px ;
+}
+.images{
+    width: 100%;
+    height: 200px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.description-div{
+    padding: 0px 20px 20px 20px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.dates{
+    font-style: italic;
+    color:#0096ff; 
+    font-weight: 600;
+}
+.descriptions{
+    font-size: 13px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}

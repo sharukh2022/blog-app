@@ -1,0 +1,40 @@
+.blog-cards{
+    width: 60%;
+    background-color: white;
+    border-radius: 10px;
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 80px;
+    margin: 50px auto ;
+    display: block;
+}
+.images{
+   width:100% ;
+   height: 380px;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+}
+.description-div{
+    border-radius: 0;
+    background-color: white;
+    padding: 20px 70px 20px 70px;
+    border-bottom: 1px solid darkgray;
+    margin-bottom: 50px;
+}
+.dates{
+    color: #0096ff;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+}
+.descriptions{
+    text-align: justify;
+    font-size: 16px;
+}
+.buttons{
+    background-color: transparent;
+}
+#buttons{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
